@@ -13,7 +13,7 @@ ${DELAY}          0
 ${LOGIN URL}      http://${SERVER}/
 ${WELCOME URL}    http://${SERVER}/#/
 ${ERROR URL}      http://${SERVER}/error.html
-${TITLE}          Elisa Virtual NOC
+${TITLE}          My Example
 
 *** Keywords ***
 Open Browser To Home Page
